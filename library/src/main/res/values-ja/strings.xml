@@ -2,6 +2,6 @@
 <resources>
     <string name="brvah_loading">ロード中…</string>
     <string name="brvah_load_failed">読み込みに失敗しました。やり直してください。</string>
-    <string name="brvah_load_end">もっと多くのデータがありません</string>
+    <string name="brvah_load_end">全てロード完了</string>
     <string name="brvah_load_complete">クリックしてもっと</string>
 </resources>
